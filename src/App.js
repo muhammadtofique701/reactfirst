@@ -7,9 +7,11 @@ import Background from './componets/Background';
 function App() {
   return (
     <>
+
     <Header />
     <Navbar />
-    <Background/>    
+    <Background/>  
+      
     </>
 
   );
