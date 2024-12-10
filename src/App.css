@@ -1,0 +1,143 @@
+
+.row{
+  color: blue;
+  text-align: center;
+   padding: 5px;
+  margin: 0%;
+  
+}
+
+.box{
+  color: blanchedalmond;
+  background-color: #f3f2f2;
+  
+}
+
+
+h1{
+  color: black;
+  font-size: 70px;
+  font-weight: bold;
+  
+}
+p{  
+  color:rgb(19, 178, 226);
+  font-size: 20px;
+}
+.container{
+  
+  position: absolute;
+  text-align: justify;
+  text-align: center;
+}
+
+.bottom-bar{
+
+  text-align: center;
+}
+.icons{
+  text-align:justify;
+  text-align: left;
+  font-size: 30px;
+}
+.address{
+  text-align:justify;
+  text-align: left;
+  font-size: small;
+}
+
+.hospital{
+  text-align:justify;
+  text-align: left;
+  font-size: small;
+}
+
+
+.context{
+  text-align: left;
+  font-size: small;
+  padding: 200px;
+}
+
+.aboutp{
+  font-size: medium;
+}
+.endp{
+  font-size: small;
+}
+.aboutbt
+{
+background-color: rgba(27, 139, 190, 0.329);
+  color: #f3f2f2;
+border-radius: 20px;
+}
+.combo{
+  color: blueviolet;
+  background-color:#f3f2f2;;
+}
+.raw{
+  
+  display: flex;
+  text-align: center;
+
+}
+.card{
+  padding: 10px;
+  margin: 10px;
+}
+
+.card-title{
+  font-weight: bold;
+}
+
+.card-text{
+  text-align: center;
+  font-size: small;
+  
+}
+.cardoc{
+  border: 2px solid skyblue;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+  
+  }
+.cardoc:hover {
+  box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+
+.card {
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+.card:hover {
+  box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+
+.maincontact{
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  height: 90vh; 
+  
+}
+
+.mainsignin{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  height: 90vh; 
+}
+
+
+.mainsignup{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  height: 90vh; 
+}
+
